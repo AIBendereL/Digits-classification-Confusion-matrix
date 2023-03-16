@@ -10,7 +10,7 @@ Therefore, we can commit and decide how to improve the model next.
 ## General Information
 
 ### Model
-CNN model, built and trained by me. The architecture is **COMPLETELY RANDOM**.
+CNN model, built and trained by me. The architecture is **completely random**.
 
 ### Evaluation steps
 1. I use CNN model to predict the input data.
