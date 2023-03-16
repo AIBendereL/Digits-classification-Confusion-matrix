@@ -8,17 +8,19 @@ Therefore, we can commit and decide how to improve the model next.
 
 
 ## General Information
-### Model
-CNN model, built and trained by me.
 
-The architecture is **COMPLETELY RANDOM**.
+
+
+
+### Model
+CNN model, built and trained by me. The architecture is **COMPLETELY RANDOM**.
 
 ### Evaluation steps
-I use CNN model to predict the input data.
+1. I use CNN model to predict the input data.
 
-Then, from the model prediction and data true labels, I use *torchmetrics* to compute the Confusion matrix.
+2. Then, from the model prediction and data true labels, I use *torchmetrics* to compute the Confusion matrix.
 
-Finally, I use *seaborn* to plot the Confusion Matrix.
+3. Finally, I use *seaborn* to plot the Confusion Matrix.
 
 
 ## Reference
