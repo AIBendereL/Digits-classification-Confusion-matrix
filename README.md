@@ -9,9 +9,6 @@ Therefore, we can commit and decide how to improve the model next.
 
 ## General Information
 
-
-
-
 ### Model
 CNN model, built and trained by me. The architecture is **COMPLETELY RANDOM**.
 
