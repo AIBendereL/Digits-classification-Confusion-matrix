@@ -24,3 +24,10 @@ CNN model, built and trained by me. The architecture is **completely random**.
 [torchmetrics.ConfusionMatrix](https://torchmetrics.readthedocs.io/en/stable/classification/confusion_matrix.html)
 
 [seaborn.heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html#seaborn.heatmap)
+
+
+## Package requirement
+torch
+torchmetrics
+seaborn
+matplotlib
