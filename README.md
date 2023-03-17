@@ -28,6 +28,9 @@ CNN model, built and trained by me. The architecture is **completely random**.
 
 ## Package requirement
 torch
+
 torchmetrics
+
 seaborn
+
 matplotlib
