@@ -1,3 +1,3 @@
-dataset will be automatically downloaded while running scripts
+dataset will be automatically downloaded while running scripts.
 
 (estimated size: 64M)
